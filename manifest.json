@@ -3,7 +3,7 @@
     "name": "Inspect+ Pro",
     "description": "Best Website Destroyer out there!",
     "version": "1.0.0",
-    "icons": {"128": "images/icon_128.png"},
+    "icons": {"128": "icon_128.png"},
     "action": {
         "default_title": "Inspect+ Pro",
         "default_popup": "popup.html"
