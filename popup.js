@@ -1,0 +1,4 @@
+function notiveScript() {
+    document.body.style.backgroundImage = "url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3554f9e1-cd13-4814-a8b9-0e4011d28d69/de0w7sg-a975207c-c72d-422c-b444-300e0cca4e81.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1NTRmOWUxLWNkMTMtNDgxNC1hOGI5LTBlNDAxMWQyOGQ2OVwvZGUwdzdzZy1hOTc1MjA3Yy1jNzJkLTQyMmMtYjQ0NC0zMDBlMGNjYTRlODEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M3stmTlClN6dVrA_upobEZYBavZs66RJyJU2h4sQons)";
+    document.body.style.backgroundColor = "green";
+}
